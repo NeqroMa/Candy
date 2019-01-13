@@ -1,0 +1,11 @@
+tx_id,customer,item_id,quantity
+1,Elon,1,3
+2,Frozone,0,2
+3,Emilia,2,3
+4,Frozone,0,5
+5,Elon,3,3
+6,Frozone,0,1
+7,Emilia,2,3
+8,Elon,1,6
+9,Frozone,1,8
+10,Elon,3,10
